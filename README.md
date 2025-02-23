@@ -1,0 +1,1 @@
+So in order to run the file you must set the two .png files in the same directory as the .py file and run it as we've showed in the previous videos. We security is importand for anything. Road safety is way too importand. I hope you enjoy!
